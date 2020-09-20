@@ -1,7 +1,5 @@
 ## CodeChef-Submission-Tool
 
-Automatically submits the code for a problem on CodeChef using Selenium.
-
 ### Installation
 
 ```sh
